@@ -7,7 +7,7 @@
 # Install on Termux :
 
       rm -rf F4OGN3T-BASIC
-      git clone 
+      git clone https://github.com/N3OBH4CK3R/F4OGN3T-BASIC
 	  ls
       cd F4OGN3T-BASIC
 	  ls
