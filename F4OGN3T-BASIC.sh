@@ -1,10 +1,8 @@
 echo 
 echo
-
 echo "HELLO WELCOME MY COMMAND."
 echo "ITS BRAND F4OGN3T-COMMUNITY"
 echo "Wait For All Package Download."
-
 echo
 echo
 echo
