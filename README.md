@@ -6,12 +6,12 @@
 
 # Install on Termux :
 
-      rm -rf 
+      rm -rf F4OGN3T-BASIC
       git clone 
 	  ls
-      cd 
+      cd F4OGN3T-BASIC
 	  ls
-      bash 
+      bash F4OGN3T-BASIC.sh
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
 
 
